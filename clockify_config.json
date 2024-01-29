@@ -1,0 +1,12 @@
+{
+    "appVersion": "1.0.0",
+    "featureFlags": {
+        "breakMode": true,
+        "schedulingTask": false
+    },
+    "usersConfig": {
+        "123456": {
+            "additionalLogger": false
+        }
+    }
+}
