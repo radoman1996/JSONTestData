@@ -1,7 +1,7 @@
 {
     "appVersion": "1.0.0",
     "featureFlags": {
-        "breakMode": true,
+        "breakMode": false,
         "schedulingTask": true
     },
     "usersConfig": {
