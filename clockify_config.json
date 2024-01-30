@@ -2,10 +2,10 @@
     "appVersion": "1.0.0",
     "featureFlags": {
         "breakMode": false,
-        "schedulingTask": true
+        "schedulingTask": false
     },
     "usersConfig": {
-        "123456": {
+        "6482d92d234ed632c1486a27": {
             "additionalLogs": true
         }
     }
