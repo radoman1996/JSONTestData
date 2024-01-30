@@ -6,7 +6,7 @@
     },
     "usersConfig": {
         "123456": {
-            "additionalLogger": false
+            "additionalLogger": true
         }
     }
 }
