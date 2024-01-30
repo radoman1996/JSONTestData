@@ -2,7 +2,7 @@
     "appVersion": "1.0.0",
     "featureFlags": {
         "breakMode": true,
-        "schedulingTask": false
+        "schedulingTask": true
     },
     "usersConfig": {
         "123456": {
